@@ -1,0 +1,7 @@
+Model,Data,MSE,MAE,R^2
+Linear Regression,Train,1.4352893151429345e-23,2.4378627771463805e-12,1.0
+Linear Regression,Test,2448.3334093095277,27.39032087184457,0.9631589009231346
+Linear Regression,Train,1960.5854017060788,0.0,0.0
+Linear Regression,Test,13240.80720577424,0.0,0.0
+Linear Regression,Train,0.0,0.0,0.0
+Linear Regression,Test,0.0,0.0,0.0
